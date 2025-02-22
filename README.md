@@ -108,13 +108,13 @@ This repository contains:
    You can add screenshots from Ganache for a visual representation:
 
    Accounts
-   ![Ganache Screenshot](Blockchain_Secured_Federated_Learning\src\screenshots_ganache\ganache_1.png)
+   ![Ganache Screenshot](https://github.com/DAVIDS4A/Blockchain_Secured_Federated_Learning/tree/main/src/screenshots_ganache/ganache_1.png)
 
    Blocks
-   ![Ganache Screenshot](Blockchain_Secured_Federated_Learning\src\screenshots_ganache\ganache_blocks.png)
+   ![Ganache Screenshot](https://github.com/DAVIDS4A/Blockchain_Secured_Federated_Learning/tree/main/src/screenshots_ganache/ganache_blocks.png)
 
    Transactions
-   ![Ganache Screenshot](Blockchain_Secured_Federated_Learning\src\screenshots_ganache\ganache_transactions.png)
+   ![Ganache Screenshot](https://github.com/DAVIDS4A/Blockchain_Secured_Federated_Learning/tree/main/src/screenshots_ganache/ganache_transactions.png)
 
 
 ---
