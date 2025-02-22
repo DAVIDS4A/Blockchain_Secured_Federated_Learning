@@ -52,6 +52,9 @@ This repository contains:
 
 - **Node.js and npm** (if you plan to deploy Ganache CLI).
 
+- **Dataset:**
+  [Chest x-ray images](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+
 - **Ganache:**  
   Either the [Ganache CLI](https://www.trufflesuite.com/ganache) or the [Ganache GUI](https://www.trufflesuite.com/ganache).  
   *Note:* Make sure to set the correct RPC port and network ID (e.g., port 7545 or 5777) in both Ganache and your notebook.
