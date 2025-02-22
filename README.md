@@ -104,7 +104,15 @@ This repository contains:
    Ganache logs will show all blockchain transactions (consent submissions, update scores, reward deposits, distributions, and claims).  
    You can add screenshots from Ganache for a visual representation:
 
-   ![Ganache Screenshot](path_to_your_screenshot.png)
+   Accounts
+   ![Ganache Screenshot](Blockchain_Secured_Federated_Learning\src\screenshots_ganache\ganache_1.png)
+
+   Blocks
+   ![Ganache Screenshot](Blockchain_Secured_Federated_Learning\src\screenshots_ganache\ganache_blocks.png)
+
+   Transactions
+   ![Ganache Screenshot](Blockchain_Secured_Federated_Learning\src\screenshots_ganache\ganache_transactions.png)
+
 
 ---
 
