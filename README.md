@@ -61,8 +61,8 @@ This repository contains:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/DAVIDS4A/Blockchain_Secured_Federated_Learning.git
+   Blockchain_Secured_Federated_Learning
    ```
 
 2. **Set Up Your Python Environment:**
@@ -70,8 +70,6 @@ This repository contains:
    Create and activate a virtual environment, then install required packages:
 
    ```bash
-   conda create -n myenv python=3.8
-   conda activate myenv
    pip install -r requirements.txt
    ```
 
